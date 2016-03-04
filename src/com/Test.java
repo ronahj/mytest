@@ -16,6 +16,6 @@ package com;
  * @version 2016-3-4
  *
  */
-public class Test {
+public class Test {          
 
 }
